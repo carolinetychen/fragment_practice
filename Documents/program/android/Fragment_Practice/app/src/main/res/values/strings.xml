@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Fragment_Practice</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Profile Items -->
+    <color name="white">#FFFFFF</color>
+
+    <!-- Profile Items -->
+    <string name="Name">Trial</string>
+    <string name="Mailbox">trial@dcard.com</string>
+
+    <!-- Drawer Items -->
+    <string name="ProfileString">我的 Dcard</string>
+    <string name="Chat">校園聊天</string>
+    <string name="Today">今日 Dcard</string>
+    <string name="Friend">朋友</string>
+    <string name="Mail">信箱</string>
+    <string name="Settings">設定</string>
+</resources>
